@@ -1,3 +1,3 @@
 # Strategoi.mx
 
-This is my app
+Custom website made in Gatsby
