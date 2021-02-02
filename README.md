@@ -1,3 +1,3 @@
-# Strategoi.mx
+# First Git Project
 
-Custom website made in Gatsby
+Learning Git and GitHub
